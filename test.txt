@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 a=1
 test
 heheh
 fdsf
 aaaaaa
+=======
+a=1
+test
+heheh
+fdsf
+bbbbbbbb
+>>>>>>> FETCH_HEAD
